@@ -226,8 +226,8 @@
 
 -include("proper_internal.hrl").
 
--define(WORKERS, 2).
--define(LIMIT, 12).
+-define(WORKERS, 10).
+-define(LIMIT, 1200).
 
 
 %% -----------------------------------------------------------------------------
